@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "626600641340",
+    "firebase_url": "https://gestion-medios-tecnologicos.firebaseio.com",
+    "project_id": "gestion-medios-tecnologicos",
+    "storage_bucket": "gestion-medios-tecnologicos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626600641340:android:01248c9106a6c820",
+        "android_client_info": {
+          "package_name": "main.com.gestionmediostecnogolicos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626600641340-8na5db396jds78jgnqv3hgmag1j6bia4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "main.com.gestionmediostecnogolicos",
+            "certificate_hash": "66d43b7496f488ab24193adeaca84b7a8efc2f2b"
+          }
+        },
+        {
+          "client_id": "626600641340-2l0hktai5l1rpd7h32j0095pjsjmlijt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKRSr4HoPXoSd3LYyxHB-s9vfdMHKPDz4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626600641340-2l0hktai5l1rpd7h32j0095pjsjmlijt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626600641340:android:2c1d0ea7931fa47e",
+        "android_client_info": {
+          "package_name": "principal.com.mediostecnologicos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626600641340-rr57ootofr2d4h3sccmnchaudv8g9l5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "principal.com.mediostecnologicos",
+            "certificate_hash": "66d43b7496f488ab24193adeaca84b7a8efc2f2b"
+          }
+        },
+        {
+          "client_id": "626600641340-2l0hktai5l1rpd7h32j0095pjsjmlijt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKRSr4HoPXoSd3LYyxHB-s9vfdMHKPDz4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626600641340-2l0hktai5l1rpd7h32j0095pjsjmlijt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
